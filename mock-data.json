@@ -2,6 +2,11 @@
   "searched_address" : "102 Blackford Rd, New Zealand",
   "location" : {
     "lat" : -43.5152097,
-    "lng" : 171.6178138
+    "lng" : 171.6178138,
+    "Mean Annual Total Rainfall (mm)" : 931.8,
+    "Mean Annual Mean Air Temperature" : 10.8,
+    "Mean Annual Mean Daily Maximum Air Temperature" : 15.5,
+    "Mean Daily Minimum Air Temperature" : 6.2,
+    "Mean Annual Total Sunshine (hours)" : 2028.3
   },
 }
